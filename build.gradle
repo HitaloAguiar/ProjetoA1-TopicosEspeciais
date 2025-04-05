@@ -14,8 +14,13 @@ java {
 }
 
 jar {
+    enabled = false
+}
+
+bootJar {
     archiveFileName = 'app.jar'
 }
+
 
 configurations {
 	compileOnly {
