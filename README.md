@@ -19,7 +19,7 @@ Este é um projeto desenvolvido com **Spring Boot**, **Java 21**, **Gradle 8.13*
 
     ```bash
     git clone https://github.com/HitaloAguiar/ProjetoA1-TopicosEspeciais.git
-    cd ProjetoA1
+    cd ProjetoA1-TopicosEspeciais
     ```
 
 2. Execute o projeto com Docker Compose:
